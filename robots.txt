@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tafsir-hongkonger.github.io/sitemap.xml
